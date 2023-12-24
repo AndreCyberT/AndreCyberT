@@ -9,14 +9,14 @@
 - Google Cyber Security Certificate Badge https://www.credly.com/badges/f116703c-01df-4889-bdc1-08505a633f08/public_url
 
   
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Popular blog</h2>
 
 - [Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
   
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/andre-rivera-3334a7126/
