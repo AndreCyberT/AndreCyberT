@@ -6,7 +6,7 @@
     
 <h2> Certifications</h2>
 
-- Google Cyber Security Certificate Badge https://www.credly.com/badges/f116703c-01df-4889-bdc1-08505a633f08/public_url
+- [Google Cyber Security Certificate Badge](https://www.credly.com/badges/f116703c-01df-4889-bdc1-08505a633f08/public_url)
 
   
 <h2>📺 Popular blog</h2>
