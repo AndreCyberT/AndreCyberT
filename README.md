@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/AndreCyberT/ActiveDirectorylab)
-  - [Active Directory Home Lab](https://github.com/AndreCyberT/ActiveDirectorylab)
-  - [Active Directory Home Lab](https://github.com/AndreCyberT/ActiveDirectorylab)
+  - [BuildingaSOC-HoneynetinAzure](https://github.com/AndreCyberT/BuildingaSOC-HoneynetinAzure)
+  - [CapturingwithTcpdumpLab](https://github.com/AndreCyberT/CapturingwithTcpdumpLab)
     
 <h2> Certifications</h2>
 
